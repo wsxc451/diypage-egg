@@ -1,0 +1,316 @@
+{
+  "keys": "/Users/wsxc451cao/Desktop/work/egg/diypage/config/config.default.js",
+  "middleware": "/Users/wsxc451cao/Desktop/work/egg/diypage/config/config.default.js",
+  "mysql": {
+    "client": {
+      "host": "/Users/wsxc451cao/Desktop/work/egg/diypage/config/config.default.js",
+      "port": "/Users/wsxc451cao/Desktop/work/egg/diypage/config/config.default.js",
+      "user": "/Users/wsxc451cao/Desktop/work/egg/diypage/config/config.default.js",
+      "password": "/Users/wsxc451cao/Desktop/work/egg/diypage/config/config.default.js",
+      "database": "/Users/wsxc451cao/Desktop/work/egg/diypage/config/config.default.js"
+    },
+    "app": "/Users/wsxc451cao/Desktop/work/egg/diypage/config/config.default.js",
+    "agent": "/Users/wsxc451cao/Desktop/work/egg/diypage/config/config.default.js",
+    "default": {
+      "database": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-mysql/config/config.default.js",
+      "connectionLimit": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-mysql/config/config.default.js"
+    }
+  },
+  "cors": {
+    "origin": "/Users/wsxc451cao/Desktop/work/egg/diypage/config/config.default.js",
+    "allowMethods": "/Users/wsxc451cao/Desktop/work/egg/diypage/config/config.default.js"
+  },
+  "security": {
+    "xframe": {
+      "enable": "/Users/wsxc451cao/Desktop/work/egg/diypage/config/config.default.js",
+      "value": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-security/config/config.default.js"
+    },
+    "csrf": {
+      "headerName": "/Users/wsxc451cao/Desktop/work/egg/diypage/config/config.default.js",
+      "queryName": "/Users/wsxc451cao/Desktop/work/egg/diypage/config/config.default.js",
+      "bodyName": "/Users/wsxc451cao/Desktop/work/egg/diypage/config/config.default.js",
+      "ignoreJSON": "/Users/wsxc451cao/Desktop/work/egg/diypage/config/config.default.js",
+      "enable": "/Users/wsxc451cao/Desktop/work/egg/diypage/config/config.default.js",
+      "type": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-security/config/config.default.js",
+    "hsts": {
+      "enable": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+  "name": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "version": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "description": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "private": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "egg": {
+      "declarations": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "egg": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "egg-mysql": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "moment": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "stop": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "dev": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "debug": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "test": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "cov": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "lint": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "ci": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "autod": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "url": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "license": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "strict": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "depth": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "env": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "level": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "logging": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "port": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/wsxc451cao/Desktop/work/egg/diypage/node_modules/egg/config/config.default.js"
+}
